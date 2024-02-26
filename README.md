@@ -1,4 +1,4 @@
-# Domain list community
+# google aja
 
 This project manages a list of domains, to be used as geosites for routing purpose in Project V.
 
